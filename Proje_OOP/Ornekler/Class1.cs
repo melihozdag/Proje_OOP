@@ -16,6 +16,5 @@ namespace Proje_OOP.Ornekler
             int s2 = 20;
             int sonuc = s1 * s2;
         }
-        
     }
 }
